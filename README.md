@@ -25,7 +25,7 @@ FinanceApp is a web application designed to help users manage their expenses eff
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/FinanceApp.git
+   git clone https://github.com/Ashrafellak9/FinanceApp.git
    cd FinanceApp
    ```
 
@@ -99,5 +99,5 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Contact
 
-For any inquiries, please contact [your email or GitHub profile].
+For any inquiries, please contact [sellakachraf9@gmail.com].
 
